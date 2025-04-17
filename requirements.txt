@@ -4,3 +4,6 @@ torchvision
 torchaudio
 matplotlib
 ipykernel
+tqdm
+scikit-learn
+numpy
